@@ -1,0 +1,19 @@
+{
+  "name": "claude-shared",
+  "version": "0.1.0",
+  "description": "Shared Claude Code rules, skills, agents, and hooks for team collaboration",
+  "bin": {
+    "claude-shared": "./bin/link.sh"
+  },
+  "keywords": [
+    "claude-code",
+    "ai-rules",
+    "team-collaboration",
+    "claude-shared"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broccoliInDB/claude-shared.git"
+  }
+}
